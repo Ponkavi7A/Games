@@ -1,0 +1,106 @@
+*{
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+.you{
+    height: 60%;
+    width: 50%;
+    background-color: #01c8f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.computer{
+    height: 60%;
+    width:50%; 
+    background-color: #f298db;   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.option{
+   height: 40%;
+   width:100%;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+}
+.whole{
+   height:100vh;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+.options{
+    height: 210px;
+    width: 12%;
+    border: 2px solid black;
+}
+.images{
+    height:100%;
+    width:100%;
+}
+.option_computer{
+    height: 300px;
+    width: 300px;
+    border: 2px solid #01c8f5;
+}
+.div1{
+    height: 500px;
+    width: 300px;
+}
+.score_div{
+    height: 100px;
+    width:100%;
+}
+.option_you{
+    height: 300px;
+    width: 300px;
+    border: 2px solid #f298db;
+}
+#image_you{
+
+}
+#image_computer{
+}
+
+.color1{
+    background-color: #f298db;
+    border: 2px solid #f298db;
+    
+}
+.color2{
+    background-color: #01c8f5;
+    border: 2px solid #01c8f5;
+}
+.imagefull{
+    height:100%;
+    width:100%;
+}
+.box{
+    height:100px;
+    width:300px;
+    background-color: black;
+}
+#score_you{
+    font-size: 2em;
+    text-align: center;
+}
+#score_computer{
+    font-size: 2em;
+    text-align: center;
+}
+#win_computer{
+    font-size: 2em;
+    text-align: center;
+}
+#win_you{
+    font-size: 2em;
+    text-align: center;
+}
+
+
